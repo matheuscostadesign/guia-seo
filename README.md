@@ -58,7 +58,14 @@
 
 [https://technicalseo.com/tools/schema-markup-generator/](https://technicalseo.com/tools/schema-markup-generator/)
 
-- [ ]  
+- Article
+- Localização
+- Carrossel
+- Perguntas frequentes
+- Empresa local
+- Logo
+- Perguntas e respostas
+- Caixa de pesquisa de sitelinks
 
 # HTML Semântico (Estrutura)
 
@@ -128,3 +135,6 @@
 - Dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data#search-appearance)
 - Google Meu Negócio: [https://www.google.com/intl/pt-BR_br/business/](https://www.google.com/intl/pt-BR_br/business/)
 - Google Search Console: [https://search.google.com/search-console](https://search.google.com/search-console)
+- Sitelinks: [https://developers.google.com/search/docs/data-types/sitelinks-searchbox](https://developers.google.com/search/docs/data-types/sitelinks-searchbox)
+- Tipos de dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/search-gallery](https://developers.google.com/search/docs/advanced/structured-data/search-gallery)
+- Curso Google: [https://skillshop.exceedlms.com/student/catalog/browse](https://skillshop.exceedlms.com/student/catalog/browse)
