@@ -1,11 +1,14 @@
-# Head
+# Guia de SEO (Search Engine Optimization)
+Manual/check-list de boas práticas no desenvolvimento de páginas HTML para os motores de busca
+
+## Head
 
 - [ ]  Charset `utf-8`
 - [ ]  Viewport `width=device-width, initial-scale=1.0`
 - [ ]  Theme color
 - [ ]  Link canonical
 
-# Metatags
+## Metatags
 
 [https://metatags.io/](https://metatags.io/)
 
@@ -16,7 +19,7 @@
 - [ ]  Keywords
 - [ ]  Robots
 
-# Open Graph (General/Facebook)
+## Open Graph (General/Facebook)
 
 - [ ]  og:type
 - [ ]  og:url
@@ -24,7 +27,7 @@
 - [ ]  og:description
 - [ ]  og:image
 
-# Open Graph (Twitter)
+## Open Graph (Twitter)
 
 - [ ]  twitter:card
 - [ ]  twitter:url
@@ -41,20 +44,20 @@
 - [ ]  Tamanhos para Android
 - [ ]  manifest.json
 
-# Robots.txt
+## Robots.txt
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
 - [ ]  index, follow (Permite a indexação da página)
 - [ ]  noindex, nofollow (Bloqueia a indexação da página)
 
-# Sitemap
+## Sitemap
 
 [https://www.xml-sitemaps.com/](https://www.xml-sitemaps.com/)
 
 - [ ]  Gerar XML com links de todas as páginas
 
-# Schema (JSON-LD)
+## Schema (JSON-LD)
 
 [https://technicalseo.com/tools/schema-markup-generator/](https://technicalseo.com/tools/schema-markup-generator/)
 
@@ -67,7 +70,7 @@
 - Perguntas e respostas
 - Caixa de pesquisa de sitelinks
 
-# HTML Semântico (Estrutura)
+## HTML Semântico (Estrutura)
 
 - `<header>`
 - `<nav>`
@@ -78,14 +81,14 @@
 - `<aside>`
 - `<footer>`
 
-# HTML Semântico (Tags)
+## HTML Semântico (Tags)
 
 - `<adrress>`
 - `<time>`
 - `<blockquote>`
 - `<cite>`
 
-# Dicas
+## Dicas
 
 - [ ]  H1: 1 por página
 - [ ]  H2: 1 por sessão
@@ -93,7 +96,7 @@
 - [ ]  Todas imagens do site devem ter o atributo `alt`
 - [ ]  Links externos `target="_blank"` devem ter os atributos: `rel=”noopener”` e `rel=”noreferrer”`
 
-# Hospedagem
+## Hospedagem
 
 - [ ]  Site deve estar com certificado SSL/HTTPS
 - [ ]  URL amigável
@@ -103,24 +106,24 @@
 - [ ]  Habilitar cache control
 - [ ]  Habilitar keep alive
 
-# Testar velocidade:
+## Testar velocidade:
 
 - PageSpeed: [https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR](https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR)
 - GTMetrix: [https://gtmetrix.com/](https://gtmetrix.com/)
 - Lighthouse: [https://developers.google.com/web/tools/lighthouse/](https://developers.google.com/web/tools/lighthouse/)
 
-# SEO Analyzer's
+## SEO Analyzer's
 
 - Seobility: [https://www.seobility.net/en/seocheck/](https://www.seobility.net/en/seocheck/)
 - SEO Site Checkup: [https://seositecheckup.com/](https://seositecheckup.com/)
 - Sitechecker: [https://sitechecker.pro/pt/](https://sitechecker.pro/pt/)
 
-# Planejadores de palavras-chave
+## Planejadores de palavras-chave
 
 - Google Ads: [https://ads.google.com/aw/keywordplanner/home](https://ads.google.com/aw/keywordplanner/home)
 - Keyword Tool: [https://keywordtool.io/](https://keywordtool.io/)
 
-# Official Debuggers
+## Official Debuggers
 
 - [https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/)
 - [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator)
@@ -128,7 +131,7 @@
 - [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
 - [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 
-# Links
+## Links úteis
 
 - Documentação Google: [https://developers.google.com/search/docs?hl=pt-br](https://developers.google.com/search/docs?hl=pt-br)
 - O que é SEO: [https://resultadosdigitais.com.br/especiais/o-que-e-seo/](https://resultadosdigitais.com.br/especiais/o-que-e-seo/)
