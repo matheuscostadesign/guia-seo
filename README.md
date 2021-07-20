@@ -1,5 +1,5 @@
-# Guia de SEO (Search Engine Optimization)
-Manual/check-list de boas práticas no desenvolvimento de páginas HTML para os motores de busca
+# :rocket: Guia de SEO (Search Engine Optimization)
+* Manual/check-list de boas práticas no desenvolvimento de páginas HTML para os motores de busca 
 
 ## Head
 
