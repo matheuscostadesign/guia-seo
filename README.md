@@ -21,6 +21,8 @@
 
 ## Open Graph (General/Facebook)
 
+[https://freecodetools.org/ogp/](https://freecodetools.org/ogp/)
+
 - [ ]  og:type
 - [ ]  og:url
 - [ ]  og:title
@@ -28,6 +30,8 @@
 - [ ]  og:image
 
 ## Open Graph (Twitter)
+
+[https://freecodetools.org/twitter-card-generator/](https://freecodetools.org/twitter-card-generator/)
 
 - [ ]  twitter:card
 - [ ]  twitter:url
