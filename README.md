@@ -146,3 +146,4 @@
 - Sitelinks: [https://developers.google.com/search/docs/data-types/sitelinks-searchbox](https://developers.google.com/search/docs/data-types/sitelinks-searchbox)
 - Tipos de dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/search-gallery](https://developers.google.com/search/docs/advanced/structured-data/search-gallery)
 - Cursos Google: [https://skillshop.exceedlms.com/student/catalog/browse](https://skillshop.exceedlms.com/student/catalog/browse)
+- Microsoft Bign Webmaster Tools: [https://www.bing.com/webmasters/help/home-05a5a164](https://www.bing.com/webmasters/help/home-05a5a164)
