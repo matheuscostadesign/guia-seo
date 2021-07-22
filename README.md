@@ -7,14 +7,14 @@
 - SEO: Search Engine Optimization
 - SERP: Search Engine Results Page
 
-## <head>
+## `<head>`
 
 - [x]  Charset `utf-8`
 - [x]  Viewport `width=device-width, initial-scale=1.0`
 - [x]  Theme color
 - [x]  Link canonical
 
-## <meta>
+## `<meta>`
 
 [https://metatags.io/](https://metatags.io/)
 
