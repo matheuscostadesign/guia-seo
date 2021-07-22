@@ -1,6 +1,6 @@
 # :rocket: Guia de SEO (Search Engine Optimization)
 
-- Este é um check-list pessoal que criei de links úteis e lembretes de tags a serem adicionadas na criação de sites HTML estáticos (na unha ✍️😂 - sem nenhum framework como Wordpress, React :react:, Next, etc) para que os motores de busca façam a indexação do site de forma orgânica.
+- Este é um check-list pessoal que criei de links úteis e lembretes de tags a serem adicionadas na criação de sites HTML estáticos (na unha ✍️😂 - sem nenhum framework como Wordpress, React/Next.js, etc) para que os motores de busca façam a indexação do site de forma orgânica.
 
 # Significado das siglas
 
