@@ -81,6 +81,14 @@
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
+## Enviar sitemap ao Google
+
+- Opção 1 - Enviar via solicitação GET [`https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP`](https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP)
+
+    Exemplo: [`https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml`](https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml)
+
+- Opção 2 - Enviar pelo **[Google Search Console](https://search.google.com/search-console/not-verified?original_url=/search-console/sitemaps?utm_medium%3Dreferral%26utm_campaign%3D7451001&original_resource_id)**
+
 ## HTML Semântico (Principais tags)
 
 - `<header>`
