@@ -4,7 +4,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 ## O que é SEO?
 
-- SEO (Search Engine Optimization) é um conjunto de técnicas que visa posicionar uma página nos primeiros resultados de mecanismos de busca online, como o Google.
+- SEO é um conjunto de técnicas que visa posicionar uma página nos primeiros resultados de mecanismos de busca online, como o Google.
 
 ## Significado das siglas
 
