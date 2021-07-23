@@ -1,6 +1,6 @@
 # :rocket: Guia de SEO (Search Engine Optimization)
 
-- Este é um check-list pessoal que criei para reunir os principais links e lembretes de tags a serem adicionadas na criação de sites HTML estáticos (na unha ✍️😂 - sem nenhum framework como Wordpress, React/Next.js, etc) para que os motores de busca façam a indexação do site de forma orgânica e que o site seja **rápido, seguro, acessível a todos e funcional em todos os dispositivos.**
+- Este é um check-list pessoal que organizei para listar os principais links, documentações e lembretes de tags a serem adicionadas na criação de sites HTML estáticos (na unha ✍️😂 - sem nenhum framework como React/Next.js ou Wordpress com plugins) para que os motores de busca façam a indexação do site de forma orgânica. Reuni também boas práticas para que o site seja **rápido, seguro, acessível a todos e funcional em todos os dispositivos.**
 
 ## Significado das siglas
 
@@ -151,7 +151,12 @@
 - [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator)
 - [https://www.linkedin.com/post-inspector/inspect/](https://www.linkedin.com/post-inspector/inspect/)
 - [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
-- [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+- Teste de pesquisa aprimorada:
+
+    [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+
+- Teste de compatibilidade com dispositivos móveis
+[https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 ## Links Úteis
 
