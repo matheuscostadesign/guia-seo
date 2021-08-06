@@ -60,7 +60,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [x] Tamanhos para Android
 - [x] manifest.json
 
-## Schema (JSON-LD)
+### Schema (JSON-LD)
 
 [https://technicalseo.com/tools/schema-markup-generator/](https://technicalseo.com/tools/schema-markup-generator/)
 
@@ -73,19 +73,19 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [ ] Perguntas e respostas
 - [ ] Caixa de pesquisa de sitelinks
 
-## Sitemap
+### Sitemap
 
 [https://www.xml-sitemaps.com/](https://www.xml-sitemaps.com/)
 
 - [ ] Gerar XML com links de todas as páginas e data da ultima atualização do site
 
-## Robots.txt
+### Robots.txt
 
 - [ ] Gerar arquivo txt, com referencia ao Sitemap
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
-## Enviar sitemap ao Google
+### Enviar sitemap ao Google
 
 - Opção 1 - Enviar via solicitação GET [`https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP`](https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP)
 
@@ -93,7 +93,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 - Opção 2 - Enviar pelo **[Google Search Console](https://search.google.com/search-console/not-verified?original_url=/search-console/sitemaps?utm_medium%3Dreferral%26utm_campaign%3D7451001&original_resource_id)**
 
-## HTML Semântico (Principais tags)
+### HTML Semântico (Principais tags)
 
 - `<header>`
 - `<nav>`
@@ -108,7 +108,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - `<aside>`
 - `<footer>`
 
-## Títulos e Parágrafos
+### Títulos e Parágrafos
 
 - `<h1>`
 - `<h2>`
@@ -118,7 +118,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - `<h6>`
 - `<p>`
 
-## Lembretes
+### Lembretes
 
 - [ ] H1: 1 por página
 - [ ] H2: 1 por sessão
@@ -130,7 +130,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
   - [ ] Forma manual: [https://www.willpeavy.com/tools/minifier/](https://www.willpeavy.com/tools/minifier/)
   - [ ] Forma automática: JS & CSS Minifier (Plugin VSCode)
 
-## Site em Produção (Hospedagem)
+### Site em Produção (Hospedagem)
 
 - [ ] Site deve estar com certificado SSL/HTTPS (garantir segurança)
 - [ ] URL deve ser amigável
