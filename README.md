@@ -13,75 +13,75 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 ### `<head>`
 
-- [x]  Charset `utf-8`
-- [x]  Viewport `width=device-width, initial-scale=1.0`
-- [x]  Theme color
-- [x]  Link canonical
+- [x] Charset `utf-8`
+- [x] Viewport `width=device-width, initial-scale=1.0`
+- [x] Theme color
+- [x] Link canonical
 
-## `<meta>`
+### `<meta>`
 
 [https://metatags.io/](https://metatags.io/)
 
-- [x]  Title
-- [x]  Description
-- [x]  Author
-- [x]  Copyrigth
-- [x]  Keywords
-- [x]  Meta Robots (por página)
-    - [x]  index, follow (Permite a indexação da página)
-    - [x]  noindex, nofollow (Bloqueia a indexação da página)
+- [x] Title
+- [x] Description
+- [x] Author
+- [x] Copyrigth
+- [x] Keywords
+- [x] Meta Robots (por página)
+  - [x] index, follow (Permite a indexação da página)
+  - [x] noindex, nofollow (Bloqueia a indexação da página)
 
 ## Open Graph (Facebook)
 
 [https://freecodetools.org/ogp/](https://freecodetools.org/ogp/)
 
-- [x]  og:type
-- [x]  og:url
-- [x]  og:title
-- [x]  og:description
-- [x]  og:image
+- [x] og:type
+- [x] og:url
+- [x] og:title
+- [x] og:description
+- [x] og:image
 
 ## Open Graph (Twitter)
 
 [https://freecodetools.org/twitter-card-generator/](https://freecodetools.org/twitter-card-generator/)
 
-- [x]  twitter:card
-- [x]  twitter:url
-- [x]  twitter:title
-- [x]  twitter:description
-- [x]  twitter:image
+- [x] twitter:card
+- [x] twitter:url
+- [x] twitter:title
+- [x] twitter:description
+- [x] twitter:image
 
 ## Favicon
 
 [https://www.favicon-generator.org/](https://www.favicon-generator.org/)
 
-- [x]  Default (16x16)
-- [x]  Tamanhos para iOS
-- [x]  Tamanhos para Android
-- [x]  manifest.json
+- [x] Default (16x16)
+- [x] Tamanhos para iOS
+- [x] Tamanhos para Android
+- [x] manifest.json
 
 ## Schema (JSON-LD)
 
 [https://technicalseo.com/tools/schema-markup-generator/](https://technicalseo.com/tools/schema-markup-generator/)
 
-- [ ]  Article
-- [ ]  Localização
-- [ ]  Carrossel
-- [ ]  Perguntas frequentes
-- [ ]  Empresa local
-- [ ]  Logo
-- [ ]  Perguntas e respostas
-- [ ]  Caixa de pesquisa de sitelinks
+- [x] Article
+- [x] Localização
+- [ ] Carrossel
+- [ ] Perguntas frequentes
+- [ ] Empresa local
+- [ ] Logo
+- [ ] Perguntas e respostas
+- [ ] Caixa de pesquisa de sitelinks
 
 ## Sitemap
 
 [https://www.xml-sitemaps.com/](https://www.xml-sitemaps.com/)
 
-- [ ]  Gerar XML com links de todas as páginas e data da ultima atualização do site
+- [ ] Gerar XML com links de todas as páginas e data da ultima atualização do site
 
 ## Robots.txt
 
-- [ ]  Gerar arquivo txt, com referencia ao Sitemap
+- [ ] Gerar arquivo txt, com referencia ao Sitemap
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
@@ -89,7 +89,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 - Opção 1 - Enviar via solicitação GET [`https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP`](https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP)
 
-    Exemplo: [`https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml`](https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml)
+  Exemplo: [`https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml`](https://www.google.com/ping?sitemap=https://myfreedom.com.br/sitemap.xml)
 
 - Opção 2 - Enviar pelo **[Google Search Console](https://search.google.com/search-console/not-verified?original_url=/search-console/sitemaps?utm_medium%3Dreferral%26utm_campaign%3D7451001&original_resource_id)**
 
@@ -99,11 +99,11 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - `<nav>`
 - `<main>`
 - `<section>`
-    - `<div>`
-    - `<blockquote>`
-    - `<cite>`
-    - `<adrress>`
-    - `<time>`
+  - `<div>`
+  - `<blockquote>`
+  - `<cite>`
+  - `<adrress>`
+  - `<time>`
 - `<article>`
 - `<aside>`
 - `<footer>`
@@ -120,25 +120,25 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 ## Lembretes
 
-- [ ]  H1: 1 por página
-- [ ]  H2: 1 por sessão
-- [ ]  H3: Pode repetir
-- [ ]  Unidades de medida do site devem estar como `rem`
-- [ ]  Todas imagens do site devem ter o atributo `alt`
-- [ ]  Todos os links externos `target="_blank"` devem ter os atributos: `rel=”noopener noreferrer”`
-- [ ]  Minificar arquivos para produção `.css` `.js` `.html`
-    - [ ]  Forma manual: [https://www.willpeavy.com/tools/minifier/](https://www.willpeavy.com/tools/minifier/)
-    - [ ]  Forma automática: JS & CSS Minifier (Plugin VSCode)
+- [ ] H1: 1 por página
+- [ ] H2: 1 por sessão
+- [ ] H3: Pode repetir
+- [ ] Unidades de medida do site devem estar como `rem`
+- [ ] Todas imagens do site devem ter o atributo `alt`
+- [ ] Todos os links externos `target="_blank"` devem ter os atributos: `rel=”noopener noreferrer”`
+- [ ] Minificar arquivos para produção `.css` `.js` `.html`
+  - [ ] Forma manual: [https://www.willpeavy.com/tools/minifier/](https://www.willpeavy.com/tools/minifier/)
+  - [ ] Forma automática: JS & CSS Minifier (Plugin VSCode)
 
 ## Site em Produção (Hospedagem)
 
-- [ ]  Site deve estar com certificado SSL/HTTPS (garantir segurança)
-- [ ]  URL deve ser amigável
-- [ ]  Remover extensões de arquivos `.html` no final
-- [ ]  Personalizar página 404
-- [ ]  Habilitar compressão Gzip
-- [ ]  Habilitar cache control
-- [ ]  Habilitar keep alive
+- [ ] Site deve estar com certificado SSL/HTTPS (garantir segurança)
+- [ ] URL deve ser amigável
+- [ ] Remover extensões de arquivos `.html` no final
+- [ ] Personalizar página 404
+- [ ] Habilitar compressão Gzip
+- [ ] Habilitar cache control
+- [ ] Habilitar keep alive
 
 ## Testar Velocidade:
 
@@ -165,10 +165,10 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
 - Teste de pesquisa aprimorada:
 
-    [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+  [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 
 - Teste de compatibilidade com dispositivos móveis
-[https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+  [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 ## Links Úteis
 
