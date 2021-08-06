@@ -31,7 +31,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
   - [x] index, follow (Permite a indexação da página)
   - [x] noindex, nofollow (Bloqueia a indexação da página)
 
-## Open Graph (Facebook)
+### Open Graph (Facebook)
 
 [https://freecodetools.org/ogp/](https://freecodetools.org/ogp/)
 
@@ -41,7 +41,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [x] og:description
 - [x] og:image
 
-## Open Graph (Twitter)
+### Open Graph (Twitter)
 
 [https://freecodetools.org/twitter-card-generator/](https://freecodetools.org/twitter-card-generator/)
 
@@ -51,7 +51,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [x] twitter:description
 - [x] twitter:image
 
-## Favicon
+### Favicon
 
 [https://www.favicon-generator.org/](https://www.favicon-generator.org/)
 
