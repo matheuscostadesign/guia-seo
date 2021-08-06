@@ -140,24 +140,24 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [ ] Habilitar cache control
 - [ ] Habilitar keep alive
 
-## Testar Velocidade:
+### Testar Velocidade:
 
 - PageSpeed: [https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR](https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR)
 - GTMetrix: [https://gtmetrix.com/](https://gtmetrix.com/)
 - Lighthouse: [https://developers.google.com/web/tools/lighthouse/](https://developers.google.com/web/tools/lighthouse/)
 
-## SEO Analyzer's
+### SEO Analyzer's
 
 - Seobility: [https://www.seobility.net/en/seocheck/](https://www.seobility.net/en/seocheck/)
 - SEO Site Checkup: [https://seositecheckup.com/](https://seositecheckup.com/)
 - Sitechecker: [https://sitechecker.pro/pt/](https://sitechecker.pro/pt/)
 
-## Planejadores de Palavras-chave
+### Planejadores de Palavras-chave
 
 - Google Ads: [https://ads.google.com/aw/keywordplanner/home](https://ads.google.com/aw/keywordplanner/home)
 - Keyword Tool: [https://keywordtool.io/](https://keywordtool.io/)
 
-## Official Debuggers (Open Graph/Schema)
+### Official Debuggers (Open Graph/Schema)
 
 - [https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/)
 - [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator)
@@ -170,7 +170,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - Teste de compatibilidade com dispositivos móveis
   [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
-## Links Úteis
+### Links Úteis
 
 - O que é SEO: [https://resultadosdigitais.com.br/especiais/o-que-e-seo/](https://resultadosdigitais.com.br/especiais/o-que-e-seo/)
 - Dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data#search-appearance)
@@ -180,7 +180,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - Tipos de dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/search-gallery](https://developers.google.com/search/docs/advanced/structured-data/search-gallery)
 - Cursos Google: [https://skillshop.exceedlms.com/student/catalog/browse](https://skillshop.exceedlms.com/student/catalog/browse)
 
-## Documentações Oficiais
+### Documentações Oficiais
 
 - Developers Google Webmaster: [https://developers.google.com/search/](https://developers.google.com/search/)
 - Microsoft Bing Webmaster Tools: [https://www.bing.com/webmasters/help/home-05a5a164](https://www.bing.com/webmasters/help/home-05a5a164)
