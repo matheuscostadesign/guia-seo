@@ -11,7 +11,7 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - SEO: Search Engine Optimization
 - SERP: Search Engine Results Page
 
-## `<head>`
+### `<head>`
 
 - [x]  Charset `utf-8`
 - [x]  Viewport `width=device-width, initial-scale=1.0`
