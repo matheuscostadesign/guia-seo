@@ -85,6 +85,9 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
+### Testar robots.txt
+ - https://www.google.com/webmasters/tools/robots-testing-tool
+
 ### Enviar sitemap ao Google
 
 - Opção 1 - Enviar via solicitação GET [`https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP`](https://www.google.com/ping?sitemap=FULL_URL_OF_SITEMAP)
