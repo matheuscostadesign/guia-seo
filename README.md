@@ -96,6 +96,10 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 - Opção 2 - Enviar pelo **[Google Search Console](https://search.google.com/search-console/not-verified?original_url=/search-console/sitemaps?utm_medium%3Dreferral%26utm_campaign%3D7451001&original_resource_id)**
 
+### Remover conteúdo desatualizado da Pesquisa Google
+
+- https://search.google.com/search-console/remove-outdated-content
+
 ### HTML Semântico (Principais tags)
 
 - `<header>`
