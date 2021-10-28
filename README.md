@@ -147,6 +147,9 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 - [ ] Habilitar cache control
 - [ ] Habilitar keep alive
 
+### Open graph generator
+- https://webcode.tools/generators/open-graph/website
+
 ### Testar Velocidade:
 
 - PageSpeed: [https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR](https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR)
