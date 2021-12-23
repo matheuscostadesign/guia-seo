@@ -179,6 +179,13 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 - Teste de compatibilidade com dispositivos móveis
   [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+  
+  
+### Web Vitals
+- O que é Web Vitals: https://web.dev/vitals/
+- Otimizar a LCP (Largest Contentful Paint): https://web.dev/optimize-lcp/
+- Otimizar a FID (First Input Delay): https://web.dev/optimize-fid/
+- Otimizar a CLS (Cumulative Layout Shift): https://web.dev/optimize-cls/
 
 ### Links Úteis
 
