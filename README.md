@@ -85,6 +85,13 @@ Este é um check-list pessoal que organizei para listar os principais links, doc
 
 [https://en.ryte.com/free-tools/robots-txt-generator/](https://en.ryte.com/free-tools/robots-txt-generator/)
 
+```txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dominio.com.br/sitemap.xml
+```
+
 ### Testar robots.txt
  - https://www.google.com/webmasters/tools/robots-testing-tool
 
