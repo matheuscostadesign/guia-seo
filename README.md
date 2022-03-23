@@ -154,6 +154,9 @@ Sitemap: https://www.dominio.com.br/sitemap.xml
 - [ ] Habilitar cache control
 - [ ] Habilitar keep alive
 
+### Testar metatags (Title, description, keywords_
+- https://freetools.seobility.net/en/serp-snippet-generator/
+
 ### Open graph generator
 - https://webcode.tools/generators/open-graph/website
 
