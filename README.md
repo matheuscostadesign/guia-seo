@@ -176,6 +176,7 @@ Sitemap: https://www.dominio.com.br/sitemap.xml
 
 - Google Ads: [https://ads.google.com/aw/keywordplanner/home](https://ads.google.com/aw/keywordplanner/home)
 - Keyword Tool: [https://keywordtool.io/](https://keywordtool.io/)
+- Keyword.com: [https://keyword.com/](https://keyword.com/)
 
 ### Official Debuggers (Open Graph/Schema)
 
@@ -196,6 +197,7 @@ Sitemap: https://www.dominio.com.br/sitemap.xml
 - Otimizar a LCP (Largest Contentful Paint): https://web.dev/optimize-lcp/
 - Otimizar a FID (First Input Delay): https://web.dev/optimize-fid/
 - Otimizar a CLS (Cumulative Layout Shift): https://web.dev/optimize-cls/
+- Web Check: https://web-check.xyz/
 
 ### Links Úteis
 
@@ -206,6 +208,7 @@ Sitemap: https://www.dominio.com.br/sitemap.xml
 - Sitelinks: [https://developers.google.com/search/docs/data-types/sitelinks-searchbox](https://developers.google.com/search/docs/data-types/sitelinks-searchbox)
 - Tipos de dados estruturados: [https://developers.google.com/search/docs/advanced/structured-data/search-gallery](https://developers.google.com/search/docs/advanced/structured-data/search-gallery)
 - Cursos Google: [https://skillshop.exceedlms.com/student/catalog/browse](https://skillshop.exceedlms.com/student/catalog/browse)
+- Dominando SEO para desenvolvedores: [https://www.git-tower.com/blog/seo-for-developers/](https://www.git-tower.com/blog/seo-for-developers/)
 
 ### Documentações Oficiais
 
